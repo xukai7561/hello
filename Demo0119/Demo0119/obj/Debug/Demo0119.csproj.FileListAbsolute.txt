@@ -1,0 +1,6 @@
+F:\xkProject\hello\Demo0119\Demo0119\bin\Debug\Demo0119.exe
+F:\xkProject\hello\Demo0119\Demo0119\bin\Debug\Demo0119.pdb
+F:\xkProject\hello\Demo0119\Demo0119\obj\Debug\Demo0119.csprojAssemblyReference.cache
+F:\xkProject\hello\Demo0119\Demo0119\obj\Debug\Demo0119.csproj.CoreCompileInputs.cache
+F:\xkProject\hello\Demo0119\Demo0119\obj\Debug\Demo0119.exe
+F:\xkProject\hello\Demo0119\Demo0119\obj\Debug\Demo0119.pdb
