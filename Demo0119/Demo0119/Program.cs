@@ -13,6 +13,7 @@ namespace Demo0119
             int b = 3;
             int c = 8;
             int d = 9;
+            string s1 = "";
             if (a > (d-c+b))
             {
                 Console.WriteLine("value is true;");
