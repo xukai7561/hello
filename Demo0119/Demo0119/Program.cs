@@ -9,9 +9,10 @@ namespace Demo0119
     {
         static void Main(string[] args)
         {
-            int a = 1;
-            int b = 2;
-            if (a > b)
+            int a = 6;
+            int b = 3;
+            int c = 8;
+            if (a > (c-b))
             {
                 Console.WriteLine("value is true;");
             }
